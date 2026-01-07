@@ -21,7 +21,7 @@ CSX scripts that can be executed in UndertaleModTool. Version compatibility may 
 
 JSON files that can be added to UndertaleModTool, which improve support for specific games.
 
-- *(This list is currently empty.)*
+- [PizzaTowerGameSpecificData](https://github.com/azphina/PizzaTowerGameSpecificData) - Game specific definitions for [Pizza Tower](https://store.steampowered.com/app/2231450/Pizza_Tower/).
 
 
 ## Contribute
